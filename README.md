@@ -8,4 +8,3 @@ China, India, United States, Brazil, Pakistan
 
 ¿Tienen alguna relación estos datos?
 Se nota principalmente la relación entre la población de US y la contaminación de US porque siendo mayoritaria de ambos rubros hace sentido esta relación +población = +contaminación
-
