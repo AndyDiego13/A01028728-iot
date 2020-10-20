@@ -4,7 +4,7 @@ try:
     cnx = mysql.connector.connect(user='root', password='samudeluque', host='127.0.0.1', database='iot')
     cursor = cnx.cursor()
 
-    query_data = (3,)
+    query_data = (3,) #tuple
     query = (f"SELECT * FROM rooms WHERE id_room > %s;")
     
     cursor.execute(query, query_data)
