@@ -5,9 +5,9 @@ try:
     cursor = cnx.cursor()
 
     query_data = (3,) #tuple
-    query = (f"SELECT * FROM rooms WHERE id_room > %s;")
+    query = (f"SELECT * FROM cuartos ;") #consulta
     
-    cursor.execute(query, query_data)
+    cursor.execute(query)
 
     for result in cursor:
         print(result)
