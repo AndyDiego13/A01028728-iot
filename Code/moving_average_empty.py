@@ -43,5 +43,3 @@ plt.plot()
 plt.ylabel("Data")
 
 plt.show()
-
-
