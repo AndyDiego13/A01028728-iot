@@ -58,10 +58,10 @@ try:
     "Clockwork Angel", "Clockwork Prince", "Clockwork Princess", "City of Bones", "City of Ashes", "City of Glass", "ity of Fallen Angels", "City of Lost Souls", "City of Heavenly Fire", "Lady Midnight",
     "Harry Potter and the Philosopher's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban","Harry Potter and the Goblet of Fire","Harry Potter and the Order of the Phoenix", "Harry Potter and the Half-Blood Prince","Harry Potter and the Deathly Hallows","Fantastic Beasts and Where to Find Them", "Quidditch Through the Ages","The Tales of Beedle the Bard"]
 
-    for j in range(100):
+    for x in range(100):
       precio=np.random.randint(200, 300)
       fecha = datetime.datetime(2020,11,11) + datetime.timedelta(days = random.randint(1,30))
-      insertarLibros(j+1,titulo[j],fecha,precio)
+      insertarLibros(x+1,titulo[j],fecha,precio)
     
     tag=["Horror","Science Fiction","Fantasy","Suspense","Crime","Manga","Prosa","Novels","Gótica","Bibliografico"]
     for n in range(10):
