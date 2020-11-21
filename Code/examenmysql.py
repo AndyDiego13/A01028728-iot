@@ -71,7 +71,7 @@ try:
     #tablas de relación
 
     #libros
-    queryidlibros = (f"SELECT id_libros FROM libros;")
+    queryidlibros = (f"SELECT id_libro FROM libros;")
     cursor.execute(queryidlibros)
     id_libros = [result[0] for result in cursor]
 
