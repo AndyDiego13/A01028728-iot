@@ -55,6 +55,7 @@ try:
     "El final de Norma", "El sombrero de tres picos", "El escándalo", "El niño de la bola", "El capitán Veneno", "La pródiga","La Buenaventura", "Cuentos amatorios", "Historietas nacionales", "Narraciones inverosímiles",
     "The Damnation Game", "Weaveworld", "Cabal", "Imajica", "The Thief of Always", "Sacrament", "Galilee", "Coldheart Canyon", "Tortured Souls", "Mister B. Gone",
     "MS. Found in a Bottle", "King Pest", "The Fall of the House of Ushe", "The Man of the Crowd", "A Descent into the Maelström", "The Murders in the Rue Morgue", "The Masque of the Red Death", "The Pit and the Pendulum", "The Oval Portrait", "The Gold Bug",
+    "The Peacock Emporium", "The Ship of Brides","Silver Bay", "Night Music", "The Last Letter from Your Lover", "The Horse Dancer", "Me Before You", "After You", "Still Me","Honeymoon in Paris",
     "Clockwork Angel", "Clockwork Prince", "Clockwork Princess", "City of Bones", "City of Ashes", "City of Glass", "ity of Fallen Angels", "City of Lost Souls", "City of Heavenly Fire", "Lady Midnight",
     "Harry Potter and the Philosopher's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban","Harry Potter and the Goblet of Fire","Harry Potter and the Order of the Phoenix", "Harry Potter and the Half-Blood Prince","Harry Potter and the Deathly Hallows","Fantastic Beasts and Where to Find Them", "Quidditch Through the Ages","The Tales of Beedle the Bard"]
 
