@@ -1,7 +1,7 @@
 '''
 Andrea Serrano Diego
 - A01028728 -
-19/Nov/2020
+20/Nov/2020
 
 Examen Modulo 2 Base de datos 
 Profesor: Octavio Navarro Hinojosa
