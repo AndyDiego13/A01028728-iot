@@ -45,8 +45,8 @@ try:
     nombre = ["Howard Phillips", "Stephen", "Dean", "Junji", "Pedro Antonio", "Clive", "Edgar", "Jojo", "Cassandra", "J.K."]
     apellido = ["Lovecraft", "King", "Koontz", "Ito", "De Alarcón","Barker", "Allan Poe","Moyes", "Clare", "Rowling"]
 
-    for i in range(10):
-      insertarAutores(i+1, nombre[i], apellido[i])
+    for u in range(10):
+      insertarAutores(u+1, nombre[u], apellido[u])
     
     titulo = ["The Little Glass Bottle", "The Secret Cave", "The Mystery of the Grave-Yard", "The Dream-Quest of Unknown Kadath", "The Case of Charles Dexter Ward", "The Whisperer in Darkness", "At the Mountains of Madness", "The Shadow over Innsmouth", "The Shadow Out of Time", "The Silver Key",
     "Carrie", "The Shining", "The Dead Zone", "Pet Sematary", "It", "Gerald's Game", "Insomnia", "Dreamcatcher", "The Mist", "Under the Dome",
@@ -61,7 +61,7 @@ try:
     for x in range(100):
       precio=np.random.randint(200, 300)
       fecha = datetime.datetime(2020,11,11) + datetime.timedelta(days = random.randint(1,30))
-      insertarLibros(x+1,titulo[j],fecha,precio)
+      insertarLibros(x+1,titulo[x],fecha,precio)
     
     tag=["Horror","Science Fiction","Fantasy","Suspense","Crime","Manga","Prosa","Novels","Gótica","Bibliografico"]
     for n in range(10):
